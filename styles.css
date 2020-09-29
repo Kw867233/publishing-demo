@@ -1,0 +1,29 @@
+html * {
+    font-family: Georgia, serif;
+}
+
+footer {
+    background-color: gray;
+}
+
+figcaption {
+    background-color: gray;
+}
+
+title {
+    text-transform: capitalize;
+}
+
+P {
+    text-align: center;
+}
+
+ul {
+    list-style-type: georgian;
+}
+
+ul li {
+    background-color: Red;
+    margin: 5px;
+    border: 2px solid black;
+}
